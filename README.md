@@ -5,3 +5,7 @@ Data Science Software and Computation Experiments 2024
 * List of lecture videos
 * Homework description
 * slido link
+
+Review the usage of numpy pandas I learned in class through this course.
+https://hackmd.io/@DCT/python-numpy-ndarray-learnings
+https://hackmd.io/@DCT/python-pandas-series-dataframe
